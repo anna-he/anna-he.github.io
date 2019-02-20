@@ -1,5 +1,5 @@
 body{
-	background-color: white;
+	background-color: #fcfad9;
 }
 
 a, ol, li, p {
@@ -18,7 +18,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .header {
-	background-color: #84ef37;
+	background-color: #afdd5f;
 	color: white;
 	text-align: center;
 	width: 80%;
@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .main {
-	background-color: #dbdbdb;
+	background-color: #d1cfbc;
 	width: 80%;
 	margin-left: auto;
 	margin-right: auto;
@@ -78,7 +78,7 @@ ol{
 }
 
 .footer {
-	background-color: #375EAB;
+	background-color: #afdd5f;
 	padding: 10px;
 	width: 80%;
 	clear: both;
