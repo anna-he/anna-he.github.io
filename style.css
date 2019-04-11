@@ -17,7 +17,7 @@ h1, h2, h3, h4, h5 {
 	font-family: Raleway, sans-serif;
 }
 
-.header {
+#header {
 	background-color: #afdd5f;
 	color: white;
 	text-align: center;
@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5 {
 	float: right;
 }
 
-.main {
+#main {
 	background-color: #d1cfbc;
 	width: 80%;
 	margin-left: auto;
@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5 {
 	overflow: auto;
 }
 
-.nav {
+#nav {
 	padding: 10px;
 	width: 18%;
 	float: left;
@@ -53,11 +53,11 @@ h1, h2, h3, h4, h5 {
 
 }
 
-a {
+#nav a {
 	color: #4f772e;
 }
 
-ul{
+#nav ul{
 	list-style-type: none;
 	padding: 0;
 }
@@ -77,7 +77,7 @@ ol{
 	float: right;	
 }
 
-.footer {
+#footer {
 	background-color: #afdd5f;
 	padding: 10px;
 	width: 80%;
@@ -87,8 +87,31 @@ ol{
 	margin-right: auto;
 }
 
-.blogpost {
+ .blogpost {
 	padding 10px;
-	padding-bottom: 20px;
+	padding-bottom: 10px;
+	background-color: #ebf2e6;
 }
 
+.divider {
+	background-color: #d1cfbc;
+	padding: 10px;
+}
+
+ .blogpost .photo h3 {
+	text-align: center;	
+}
+
+.blogpost p, h3, h5{
+	padding: 5px; 
+}
+
+.blogpost .photo {
+	padding: 10px; 
+	float: middle;
+	background-color: #ebf2e6;
+}
+
+ .blogpost .date {
+
+}
