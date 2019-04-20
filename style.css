@@ -53,6 +53,14 @@ h1, h2, h3, h4, h5 {
 
 }
 
+#test-affirmations p{
+	font-style: italic;
+}
+
+#Final-Affirm p {
+	font-style:italic;
+}
+
 #nav a {
 	color: #4f772e;
 }
